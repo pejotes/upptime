@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 77,
-    "timeDay": 73,
-    "timeWeek": 75,
+    "time": 76,
+    "timeDay": 60,
+    "timeWeek": 74,
     "timeMonth": 77,
-    "timeYear": 77,
+    "timeYear": 76,
     "dailyMinutesDown": {}
   },
   {
@@ -22,17 +22,17 @@
     "url": "https://www.fotoamigo.pl",
     "icon": "https://favicons.githubusercontent.com/www.fotoamigo.pl",
     "slug": "fotoamigo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 911,
-    "timeDay": 949,
-    "timeWeek": 978,
+    "time": 909,
+    "timeDay": 814,
+    "timeWeek": 962,
     "timeMonth": 920,
-    "timeYear": 911,
+    "timeYear": 909,
     "dailyMinutesDown": {}
   }
 ]
