@@ -22,17 +22,17 @@
     "url": "https://www.fotoamigo.pl",
     "icon": "https://favicons.githubusercontent.com/www.fotoamigo.pl",
     "slug": "fotoamigo",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 909,
-    "timeDay": 814,
-    "timeWeek": 962,
-    "timeMonth": 920,
-    "timeYear": 909,
+    "time": 943,
+    "timeDay": 1782,
+    "timeWeek": 1186,
+    "timeMonth": 983,
+    "timeYear": 943,
     "dailyMinutesDown": {}
   }
 ]
