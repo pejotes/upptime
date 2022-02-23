@@ -8,12 +8,12 @@
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 104,
     "timeDay": 95,
     "timeWeek": 72,
-    "timeMonth": 108,
+    "timeMonth": 94,
     "timeYear": 105,
     "dailyMinutesDown": {
       "2022-01-23": 18
@@ -24,7 +24,7 @@
     "url": "https://www.fotoamigo.pl",
     "icon": "https://favicons.githubusercontent.com/www.fotoamigo.pl",
     "slug": "fotoamigo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -35,6 +35,8 @@
     "timeWeek": 2105,
     "timeMonth": 2143,
     "timeYear": 2158,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-23": 0
+    }
   }
 ]
