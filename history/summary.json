@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 104,
-    "timeDay": 72,
-    "timeWeek": 75,
+    "timeDay": 112,
+    "timeWeek": 80,
     "timeMonth": 94,
-    "timeYear": 105,
+    "timeYear": 106,
     "dailyMinutesDown": {
       "2022-01-23": 18
     }
@@ -26,15 +26,15 @@
     "slug": "fotoamigo",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.88%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 2083,
-    "timeDay": 2233,
-    "timeWeek": 2170,
-    "timeMonth": 2156,
-    "timeYear": 2162,
+    "time": 2085,
+    "timeDay": 2717,
+    "timeWeek": 2236,
+    "timeMonth": 2182,
+    "timeYear": 2167,
     "dailyMinutesDown": {
       "2022-02-23": 16
     }
