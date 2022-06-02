@@ -10,6 +10,12 @@ sites:
     url: http://www.beyond.pl
   - name: cleura.cloud
     url: https://cleura.cloud
+  - name: OBJ BUF1 
+    url: https://swift-buf1.citycloud.com:8080/
+  - name: OBJ KNA1
+    url: https://swift-kna1.citycloud.com:8080/
+  - name: OBJ FRA1
+    url: https://swift-fra1.citycloud.com:8080/
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
