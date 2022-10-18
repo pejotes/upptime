@@ -13,8 +13,8 @@
     "time": 2378,
     "timeDay": 3829,
     "timeWeek": 2692,
-    "timeMonth": 2859,
-    "timeYear": 2417,
+    "timeMonth": 2873,
+    "timeYear": 2418,
     "dailyMinutesDown": {
       "2022-10-02": 154,
       "2022-09-30": 57,
@@ -34,16 +34,16 @@
     "url": "http://www.beyond.pl",
     "icon": "https://icons.duckduckgo.com/ip3/www.beyond.pl.ico",
     "slug": "beyond-pl",
-    "status": "up",
+    "status": "down",
     "uptime": "95.59%",
-    "uptimeDay": "88.91%",
+    "uptimeDay": "88.90%",
     "uptimeWeek": "91.36%",
     "uptimeMonth": "93.96%",
     "uptimeYear": "95.59%",
     "time": 1484,
     "timeDay": 1810,
     "timeWeek": 1960,
-    "timeMonth": 1846,
+    "timeMonth": 1854,
     "timeYear": 1484,
     "dailyMinutesDown": {
       "2022-10-18": 159,
@@ -95,7 +95,7 @@
     "time": 966,
     "timeDay": 1280,
     "timeWeek": 896,
-    "timeMonth": 943,
+    "timeMonth": 950,
     "timeYear": 966,
     "dailyMinutesDown": {}
   },
@@ -113,7 +113,7 @@
     "time": 575,
     "timeDay": 679,
     "timeWeek": 491,
-    "timeMonth": 555,
+    "timeMonth": 557,
     "timeYear": 575,
     "dailyMinutesDown": {
       "2022-09-14": 34,
@@ -134,7 +134,7 @@
     "time": 759,
     "timeDay": 966,
     "timeWeek": 719,
-    "timeMonth": 773,
+    "timeMonth": 776,
     "timeYear": 759,
     "dailyMinutesDown": {}
   },
@@ -152,7 +152,7 @@
     "time": 813,
     "timeDay": 1090,
     "timeWeek": 782,
-    "timeMonth": 833,
+    "timeMonth": 836,
     "timeYear": 813,
     "dailyMinutesDown": {}
   }
