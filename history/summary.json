@@ -35,13 +35,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.beyond.pl.ico",
     "slug": "beyond-pl",
     "status": "up",
-    "uptime": "98.71%",
+    "uptime": "98.72%",
     "uptimeDay": "88.10%",
     "uptimeWeek": "91.53%",
     "uptimeMonth": "92.47%",
-    "uptimeYear": "98.71%",
+    "uptimeYear": "98.72%",
     "time": 1668,
-    "timeDay": 1886,
+    "timeDay": 1895,
     "timeWeek": 1758,
     "timeMonth": 1858,
     "timeYear": 1668,
@@ -136,9 +136,9 @@
     "url": "https://swift-fra1.citycloud.com:8080/",
     "icon": "https://icons.duckduckgo.com/ip3/swift-fra1.citycloud.com.ico",
     "slug": "obj-fra-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -147,6 +147,8 @@
     "timeWeek": 718,
     "timeMonth": 786,
     "timeYear": 807,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-27": 0
+    }
   }
 ]
