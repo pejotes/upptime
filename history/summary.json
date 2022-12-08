@@ -80,10 +80,10 @@
     "url": "https://cleura.cloud",
     "icon": "https://icons.duckduckgo.com/ip3/cleura.cloud.ico",
     "slug": "cleura-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 989,
@@ -91,17 +91,19 @@
     "timeWeek": 980,
     "timeMonth": 962,
     "timeYear": 989,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-08": 1
+    }
   },
   {
     "name": "OBJ BUF1",
     "url": "https://swift-buf1.citycloud.com:8080/",
     "icon": "https://icons.duckduckgo.com/ip3/swift-buf1.citycloud.com.ico",
     "slug": "obj-buf-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 570,
@@ -110,6 +112,7 @@
     "timeMonth": 538,
     "timeYear": 570,
     "dailyMinutesDown": {
+      "2022-12-08": 1,
       "2022-09-14": 34,
       "2022-08-31": 128
     }
