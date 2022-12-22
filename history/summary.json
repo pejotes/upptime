@@ -38,12 +38,12 @@
     "uptime": "98.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.77%",
-    "uptimeMonth": "98.21%",
+    "uptimeMonth": "98.54%",
     "uptimeYear": "98.92%",
     "time": 1693,
     "timeDay": 2061,
     "timeWeek": 2797,
-    "timeMonth": 1880,
+    "timeMonth": 1891,
     "timeYear": 1693,
     "dailyMinutesDown": {
       "2022-12-16": 23,
@@ -141,9 +141,9 @@
     "url": "https://swift-fra1.citycloud.com:8080/",
     "icon": "https://icons.duckduckgo.com/ip3/swift-fra1.citycloud.com.ico",
     "slug": "obj-fra-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -152,6 +152,8 @@
     "timeWeek": 790,
     "timeMonth": 928,
     "timeYear": 828,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-22": 0
+    }
   }
 ]
