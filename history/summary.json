@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
-    "time": 2513,
-    "timeDay": 1912,
-    "timeWeek": 2811,
-    "timeMonth": 3206,
-    "timeYear": 2631,
+    "time": 2512,
+    "timeDay": 2248,
+    "timeWeek": 2725,
+    "timeMonth": 3202,
+    "timeYear": 2632,
     "dailyMinutesDown": {
       "2023-01-25": 49,
       "2022-10-02": 154,
@@ -35,16 +35,16 @@
     "url": "http://www.beyond.pl",
     "icon": "https://icons.duckduckgo.com/ip3/www.beyond.pl.ico",
     "slug": "beyond-pl",
-    "status": "up",
-    "uptime": "99.16%",
-    "uptimeDay": "83.35%",
+    "status": "down",
+    "uptime": "99.17%",
+    "uptimeDay": "83.34%",
     "uptimeWeek": "81.53%",
-    "uptimeMonth": "93.24%",
-    "uptimeYear": "99.16%",
+    "uptimeMonth": "93.27%",
+    "uptimeYear": "99.17%",
     "time": 1765,
-    "timeDay": 1813,
-    "timeWeek": 1749,
-    "timeMonth": 1865,
+    "timeDay": 1816,
+    "timeWeek": 1748,
+    "timeMonth": 1866,
     "timeYear": 1765,
     "dailyMinutesDown": {
       "2023-02-02": 241,
@@ -58,7 +58,7 @@
       "2023-01-25": 254,
       "2023-01-24": 278,
       "2023-01-23": 300,
-      "2023-01-22": 69
+      "2023-01-22": 53
     }
   },
   {
@@ -72,11 +72,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1022,
-    "timeDay": 706,
-    "timeWeek": 1488,
-    "timeMonth": 1203,
-    "timeYear": 1022,
+    "time": 1021,
+    "timeDay": 759,
+    "timeWeek": 1465,
+    "timeMonth": 1206,
+    "timeYear": 1021,
     "dailyMinutesDown": {
       "2022-12-08": 35
     }
@@ -92,11 +92,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 579,
-    "timeDay": 295,
-    "timeWeek": 1036,
+    "time": 578,
+    "timeDay": 329,
+    "timeWeek": 1034,
     "timeMonth": 667,
-    "timeYear": 579,
+    "timeYear": 578,
     "dailyMinutesDown": {
       "2022-12-08": 34,
       "2022-09-14": 34,
@@ -114,11 +114,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
-    "time": 786,
-    "timeDay": 661,
-    "timeWeek": 789,
-    "timeMonth": 941,
-    "timeYear": 786,
+    "time": 785,
+    "timeDay": 619,
+    "timeWeek": 767,
+    "timeMonth": 940,
+    "timeYear": 785,
     "dailyMinutesDown": {
       "2023-01-25": 24
     }
@@ -134,11 +134,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.98%",
-    "time": 847,
-    "timeDay": 564,
-    "timeWeek": 743,
-    "timeMonth": 946,
-    "timeYear": 847,
+    "time": 846,
+    "timeDay": 595,
+    "timeWeek": 708,
+    "timeMonth": 938,
+    "timeYear": 846,
     "dailyMinutesDown": {
       "2023-01-25": 58
     }
