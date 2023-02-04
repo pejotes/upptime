@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
-    "time": 2512,
-    "timeDay": 2248,
-    "timeWeek": 2725,
-    "timeMonth": 3202,
+    "time": 2513,
+    "timeDay": 2538,
+    "timeWeek": 2484,
+    "timeMonth": 3205,
     "timeYear": 2632,
     "dailyMinutesDown": {
       "2023-01-25": 49,
@@ -35,18 +35,19 @@
     "url": "http://www.beyond.pl",
     "icon": "https://icons.duckduckgo.com/ip3/www.beyond.pl.ico",
     "slug": "beyond-pl",
-    "status": "up",
-    "uptime": "99.15%",
-    "uptimeDay": "86.28%",
+    "status": "down",
+    "uptime": "99.16%",
+    "uptimeDay": "86.27%",
     "uptimeWeek": "82.44%",
-    "uptimeMonth": "93.14%",
-    "uptimeYear": "99.15%",
+    "uptimeMonth": "93.18%",
+    "uptimeYear": "99.16%",
     "time": 1766,
-    "timeDay": 1795,
+    "timeDay": 1780,
     "timeWeek": 1744,
     "timeMonth": 1863,
     "timeYear": 1766,
     "dailyMinutesDown": {
+      "2023-02-04": 0,
       "2023-02-03": 196,
       "2023-02-02": 241,
       "2023-02-01": 346,
@@ -58,7 +59,7 @@
       "2023-01-26": 202,
       "2023-01-25": 254,
       "2023-01-24": 278,
-      "2023-01-23": 215
+      "2023-01-23": 197
     }
   },
   {
@@ -72,11 +73,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1021,
-    "timeDay": 759,
-    "timeWeek": 1465,
-    "timeMonth": 1206,
-    "timeYear": 1021,
+    "time": 1019,
+    "timeDay": 679,
+    "timeWeek": 774,
+    "timeMonth": 1205,
+    "timeYear": 1019,
     "dailyMinutesDown": {
       "2022-12-08": 35
     }
@@ -92,11 +93,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 578,
-    "timeDay": 329,
-    "timeWeek": 1034,
-    "timeMonth": 667,
-    "timeYear": 578,
+    "time": 577,
+    "timeDay": 372,
+    "timeWeek": 970,
+    "timeMonth": 669,
+    "timeYear": 577,
     "dailyMinutesDown": {
       "2022-12-08": 34,
       "2022-09-14": 34,
@@ -114,11 +115,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
-    "time": 785,
-    "timeDay": 619,
-    "timeWeek": 767,
-    "timeMonth": 940,
-    "timeYear": 785,
+    "time": 784,
+    "timeDay": 655,
+    "timeWeek": 736,
+    "timeMonth": 939,
+    "timeYear": 784,
     "dailyMinutesDown": {
       "2023-01-25": 24
     }
@@ -134,11 +135,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.98%",
-    "time": 846,
-    "timeDay": 595,
-    "timeWeek": 708,
-    "timeMonth": 938,
-    "timeYear": 846,
+    "time": 845,
+    "timeDay": 600,
+    "timeWeek": 689,
+    "timeMonth": 937,
+    "timeYear": 845,
     "dailyMinutesDown": {
       "2023-01-25": 58
     }
