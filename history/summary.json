@@ -35,19 +35,19 @@
     "url": "http://www.beyond.pl",
     "icon": "https://icons.duckduckgo.com/ip3/www.beyond.pl.ico",
     "slug": "beyond-pl",
-    "status": "up",
-    "uptime": "99.16%",
-    "uptimeDay": "79.94%",
+    "status": "down",
+    "uptime": "99.18%",
+    "uptimeDay": "79.90%",
     "uptimeWeek": "82.04%",
-    "uptimeMonth": "93.16%",
-    "uptimeYear": "99.16%",
+    "uptimeMonth": "93.27%",
+    "uptimeYear": "99.18%",
     "time": 1765,
     "timeDay": 1780,
     "timeWeek": 1743,
     "timeMonth": 1854,
     "timeYear": 1765,
     "dailyMinutesDown": {
-      "2023-02-06": 130,
+      "2023-02-06": 131,
       "2023-02-05": 200,
       "2023-02-04": 229,
       "2023-02-03": 196,
@@ -59,7 +59,7 @@
       "2023-01-28": 222,
       "2023-01-27": 290,
       "2023-01-26": 202,
-      "2023-01-25": 175
+      "2023-01-25": 127
     }
   },
   {
@@ -69,9 +69,9 @@
     "slug": "cleura-cloud",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.18%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 1019,
     "timeDay": 895,
@@ -79,7 +79,7 @@
     "timeMonth": 1221,
     "timeYear": 1019,
     "dailyMinutesDown": {
-      "2023-02-06": 0,
+      "2023-02-06": 12,
       "2022-12-08": 35
     }
   },
