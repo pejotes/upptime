@@ -27,8 +27,7 @@
       "2022-08-28": 20,
       "2022-06-27": 77,
       "2022-05-17": 20,
-      "2022-04-03": 20,
-      "2022-03-25": 19
+      "2022-04-03": 20
     }
   },
   {
@@ -37,18 +36,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.beyond.pl.ico",
     "slug": "beyond-pl",
     "status": "down",
-    "uptime": "99.29%",
+    "uptime": "99.27%",
     "uptimeDay": "74.28%",
-    "uptimeWeek": "92.72%",
-    "uptimeMonth": "98.33%",
-    "uptimeYear": "99.29%",
+    "uptimeWeek": "92.11%",
+    "uptimeMonth": "98.18%",
+    "uptimeYear": "99.27%",
     "time": 1789,
     "timeDay": 1905,
     "timeWeek": 1886,
     "timeMonth": 1901,
     "timeYear": 1789,
     "dailyMinutesDown": {
-      "2023-03-24": 352,
+      "2023-03-25": 43,
+      "2023-03-24": 371,
       "2023-03-23": 244,
       "2023-03-22": 140,
       "2023-02-10": 76,
