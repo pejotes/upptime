@@ -13,7 +13,7 @@
     "time": 2595,
     "timeDay": 2687,
     "timeWeek": 3301,
-    "timeMonth": 3039,
+    "timeMonth": 3011,
     "timeYear": 2782,
     "dailyMinutesDown": {
       "2023-02-26": 35,
@@ -37,9 +37,9 @@
     "slug": "beyond-pl",
     "status": "up",
     "uptime": "99.29%",
-    "uptimeDay": "83.36%",
-    "uptimeWeek": "85.37%",
-    "uptimeMonth": "95.80%",
+    "uptimeDay": "84.10%",
+    "uptimeWeek": "86.09%",
+    "uptimeMonth": "95.82%",
     "uptimeYear": "99.29%",
     "time": 1798,
     "timeDay": 1860,
@@ -47,7 +47,7 @@
     "timeMonth": 1902,
     "timeYear": 1798,
     "dailyMinutesDown": {
-      "2023-03-30": 241,
+      "2023-03-30": 230,
       "2023-03-29": 278,
       "2023-03-28": 217,
       "2023-03-27": 129,
@@ -60,7 +60,8 @@
       "2023-02-09": 341,
       "2023-02-08": 282,
       "2023-02-07": 223,
-      "2023-02-06": 334
+      "2023-02-06": 334,
+      "2023-02-05": 15
     }
   },
   {
@@ -77,7 +78,7 @@
     "time": 1003,
     "timeDay": 647,
     "timeWeek": 909,
-    "timeMonth": 949,
+    "timeMonth": 941,
     "timeYear": 1003,
     "dailyMinutesDown": {
       "2023-03-27": 21,
@@ -99,7 +100,7 @@
     "time": 569,
     "timeDay": 395,
     "timeWeek": 563,
-    "timeMonth": 565,
+    "timeMonth": 559,
     "timeYear": 569,
     "dailyMinutesDown": {
       "2023-03-27": 21,
@@ -123,7 +124,7 @@
     "time": 781,
     "timeDay": 629,
     "timeWeek": 815,
-    "timeMonth": 789,
+    "timeMonth": 786,
     "timeYear": 781,
     "dailyMinutesDown": {
       "2023-03-27": 20,
@@ -144,7 +145,7 @@
     "time": 847,
     "timeDay": 783,
     "timeWeek": 911,
-    "timeMonth": 790,
+    "timeMonth": 781,
     "timeYear": 847,
     "dailyMinutesDown": {
       "2023-03-27": 20,
