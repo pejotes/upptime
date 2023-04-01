@@ -35,12 +35,12 @@
     "url": "http://www.beyond.pl",
     "icon": "https://icons.duckduckgo.com/ip3/www.beyond.pl.ico",
     "slug": "beyond-pl",
-    "status": "up",
-    "uptime": "99.32%",
-    "uptimeDay": "89.67%",
+    "status": "down",
+    "uptime": "99.33%",
+    "uptimeDay": "89.66%",
     "uptimeWeek": "86.64%",
     "uptimeMonth": "94.95%",
-    "uptimeYear": "99.32%",
+    "uptimeYear": "99.33%",
     "time": 1799,
     "timeDay": 1880,
     "timeWeek": 1894,
@@ -61,7 +61,7 @@
       "2023-02-10": 76,
       "2023-02-09": 341,
       "2023-02-08": 282,
-      "2023-02-07": 66
+      "2023-02-07": 37
     }
   },
   {
@@ -71,7 +71,7 @@
     "slug": "cleura-cloud",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "91.16%",
+    "uptimeDay": "92.65%",
     "uptimeWeek": "98.53%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.95%",
