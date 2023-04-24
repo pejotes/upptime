@@ -36,17 +36,16 @@
     "slug": "beyond-pl",
     "status": "up",
     "uptime": "99.40%",
-    "uptimeDay": "95.42%",
-    "uptimeWeek": "87.49%",
-    "uptimeMonth": "93.59%",
+    "uptimeDay": "96.15%",
+    "uptimeWeek": "87.60%",
+    "uptimeMonth": "93.54%",
     "uptimeYear": "99.40%",
     "time": 1816,
-    "timeDay": 1746,
+    "timeDay": 1748,
     "timeWeek": 1806,
     "timeMonth": 1876,
     "timeYear": 1816,
     "dailyMinutesDown": {
-      "2023-04-24": 11,
       "2023-04-23": 109,
       "2023-04-22": 288,
       "2023-04-21": 271,
@@ -60,7 +59,8 @@
       "2023-04-13": 108,
       "2023-04-12": 287,
       "2023-04-11": 151,
-      "2023-04-10": 181
+      "2023-04-10": 181,
+      "2023-04-09": 33
     }
   },
   {
@@ -116,9 +116,9 @@
     "url": "https://swift-kna1.citycloud.com:8080/",
     "icon": "https://icons.duckduckgo.com/ip3/swift-kna1.citycloud.com.ico",
     "slug": "obj-kna-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
@@ -128,6 +128,7 @@
     "timeMonth": 868,
     "timeYear": 788,
     "dailyMinutesDown": {
+      "2023-04-24": 0,
       "2023-03-27": 20,
       "2023-01-25": 24
     }
