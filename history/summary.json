@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 2727,
-    "timeDay": 3443,
-    "timeWeek": 3322,
+    "time": 2825,
+    "timeDay": 3091,
+    "timeWeek": 3251,
     "timeMonth": 3270,
-    "timeYear": 2932,
+    "timeYear": 2933,
     "dailyMinutesDown": {
       "2023-02-26": 35,
       "2023-02-18": 23,
@@ -33,17 +33,17 @@
     "url": "http://www.beyond.pl",
     "icon": "https://icons.duckduckgo.com/ip3/www.beyond.pl.ico",
     "slug": "beyond-pl",
-    "status": "up",
-    "uptime": "99.47%",
-    "uptimeDay": "85.43%",
+    "status": "down",
+    "uptime": "99.48%",
+    "uptimeDay": "85.42%",
     "uptimeWeek": "89.50%",
-    "uptimeMonth": "93.43%",
-    "uptimeYear": "99.45%",
+    "uptimeMonth": "93.62%",
+    "uptimeYear": "99.47%",
     "time": 1843,
     "timeDay": 1837,
-    "timeWeek": 1911,
+    "timeWeek": 1906,
     "timeMonth": 1893,
-    "timeYear": 1846,
+    "timeYear": 1847,
     "dailyMinutesDown": {
       "2023-06-12": 210,
       "2023-06-11": 306,
@@ -60,7 +60,7 @@
       "2023-05-31": 278,
       "2023-05-30": 116,
       "2023-05-29": 306,
-      "2023-05-28": 218
+      "2023-05-28": 133
     }
   },
   {
@@ -75,8 +75,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 1057,
-    "timeDay": 809,
-    "timeWeek": 1006,
+    "timeDay": 700,
+    "timeWeek": 954,
     "timeMonth": 938,
     "timeYear": 1061,
     "dailyMinutesDown": {
@@ -100,7 +100,7 @@
     "uptimeYear": "99.95%",
     "time": 561,
     "timeDay": 424,
-    "timeWeek": 567,
+    "timeWeek": 557,
     "timeMonth": 517,
     "timeYear": 560,
     "dailyMinutesDown": {
@@ -124,7 +124,7 @@
     "uptimeYear": "99.99%",
     "time": 784,
     "timeDay": 643,
-    "timeWeek": 862,
+    "timeWeek": 851,
     "timeMonth": 776,
     "timeYear": 785,
     "dailyMinutesDown": {
@@ -146,7 +146,7 @@
     "uptimeYear": "99.99%",
     "time": 838,
     "timeDay": 598,
-    "timeWeek": 792,
+    "timeWeek": 736,
     "timeMonth": 776,
     "timeYear": 839,
     "dailyMinutesDown": {
