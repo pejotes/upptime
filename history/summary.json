@@ -4,9 +4,9 @@
     "url": "https://www.fotoamigo.pl",
     "icon": "https://icons.duckduckgo.com/ip3/www.fotoamigo.pl.ico",
     "slug": "fotoamigo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.91%",
@@ -16,6 +16,7 @@
     "timeMonth": 3432,
     "timeYear": 3003,
     "dailyMinutesDown": {
+      "2023-07-07": 0,
       "2023-07-05": 23,
       "2023-02-26": 35,
       "2023-02-18": 23,
@@ -35,17 +36,17 @@
     "slug": "beyond-pl",
     "status": "up",
     "uptime": "99.50%",
-    "uptimeDay": "80.12%",
-    "uptimeWeek": "82.75%",
-    "uptimeMonth": "93.49%",
-    "uptimeYear": "99.46%",
+    "uptimeDay": "80.99%",
+    "uptimeWeek": "82.87%",
+    "uptimeMonth": "93.45%",
+    "uptimeYear": "99.45%",
     "time": 1853,
     "timeDay": 1776,
-    "timeWeek": 1923,
+    "timeWeek": 1922,
     "timeMonth": 1919,
     "timeYear": 1869,
     "dailyMinutesDown": {
-      "2023-07-07": 37,
+      "2023-07-07": 25,
       "2023-07-06": 324,
       "2023-07-05": 301,
       "2023-07-04": 236,
@@ -58,7 +59,7 @@
       "2023-06-27": 87,
       "2023-06-26": 189,
       "2023-06-25": 311,
-      "2023-06-24": 104
+      "2023-06-24": 131
     }
   },
   {
