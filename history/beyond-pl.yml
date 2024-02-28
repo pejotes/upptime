@@ -1,7 +1,7 @@
 url: http://www.beyond.pl
-status: up
-code: 200
-responseTime: 2601
-lastUpdated: 2024-02-27T23:13:26.314Z
+status: down
+code: 403
+responseTime: 402
+lastUpdated: 2024-02-28T02:59:20.620Z
 startTime: 2022-06-02T09:14:14.000Z
 generator: Upptime <https://github.com/upptime/upptime>
