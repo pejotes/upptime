@@ -104,10 +104,10 @@
     "url": "https://cleura.cloud",
     "icon": "https://icons.duckduckgo.com/ip3/cleura.cloud.ico",
     "slug": "cleura-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 1000,
@@ -116,6 +116,7 @@
     "timeMonth": 763,
     "timeYear": 926,
     "dailyMinutesDown": {
+      "2024-04-10": 1,
       "2024-03-22": 17,
       "2023-12-12": 51
     }
