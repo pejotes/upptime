@@ -32,17 +32,17 @@
     "slug": "beyond-pl",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "98.16%",
-    "uptimeWeek": "97.62%",
-    "uptimeMonth": "98.21%",
-    "uptimeYear": "99.50%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "97.72%",
+    "uptimeMonth": "98.24%",
+    "uptimeYear": "99.49%",
     "time": 2072,
     "timeDay": 2414,
     "timeWeek": 2387,
-    "timeMonth": 1821,
+    "timeMonth": 1828,
     "timeYear": 2079,
     "dailyMinutesDown": {
-      "2024-06-21": 27,
+      "2024-06-21": 16,
       "2024-06-20": 62,
       "2024-06-19": 82,
       "2024-06-18": 27,
@@ -96,7 +96,7 @@
       "2024-04-01": 36,
       "2024-03-29": 17,
       "2024-03-28": 110,
-      "2024-03-27": 18
+      "2024-03-27": 34
     }
   },
   {
