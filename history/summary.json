@@ -30,18 +30,19 @@
     "url": "http://www.beyond.pl",
     "icon": "https://icons.duckduckgo.com/ip3/www.beyond.pl.ico",
     "slug": "beyond-pl",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "98.56%",
     "uptimeMonth": "94.41%",
     "uptimeYear": "99.49%",
-    "time": 2130,
-    "timeDay": 1979,
-    "timeWeek": 1669,
-    "timeMonth": 2001,
-    "timeYear": 2135,
+    "time": 2129,
+    "timeDay": 1653,
+    "timeWeek": 1647,
+    "timeMonth": 1996,
+    "timeYear": 2134,
     "dailyMinutesDown": {
+      "2024-08-13": 0,
       "2024-08-11": 23,
       "2024-08-10": 19,
       "2024-08-08": 44,
@@ -71,8 +72,7 @@
       "2024-07-12": 29,
       "2024-07-11": 81,
       "2024-07-10": 22,
-      "2024-07-09": 78,
-      "2024-07-08": 22
+      "2024-07-09": 78
     }
   },
   {
