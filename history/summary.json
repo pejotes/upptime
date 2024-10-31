@@ -13,7 +13,7 @@
     "time": 3687,
     "timeDay": 2699,
     "timeWeek": 3067,
-    "timeMonth": 3454,
+    "timeMonth": 3448,
     "timeYear": 3618,
     "dailyMinutesDown": {
       "2024-08-03": 53,
@@ -32,17 +32,16 @@
     "slug": "beyond-pl",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "95.48%",
-    "uptimeMonth": "96.38%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "95.59%",
+    "uptimeMonth": "96.27%",
     "uptimeYear": "99.47%",
     "time": 2014,
     "timeDay": 1403,
     "timeWeek": 1565,
-    "timeMonth": 1650,
+    "timeMonth": 1657,
     "timeYear": 1990,
     "dailyMinutesDown": {
-      "2024-10-30": 12,
       "2024-10-29": 141,
       "2024-10-28": 22,
       "2024-10-26": 153,
@@ -92,7 +91,8 @@
       "2024-09-07": 48,
       "2024-09-05": 65,
       "2024-09-04": 25,
-      "2024-09-03": 19
+      "2024-09-03": 19,
+      "2024-09-02": 19
     }
   },
   {
@@ -104,12 +104,12 @@
     "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.92%",
     "time": 948,
     "timeDay": 587,
     "timeWeek": 868,
-    "timeMonth": 852,
+    "timeMonth": 854,
     "timeYear": 941,
     "dailyMinutesDown": {
       "2024-09-30": 15,
@@ -135,7 +135,7 @@
     "time": 554,
     "timeDay": 297,
     "timeWeek": 508,
-    "timeMonth": 570,
+    "timeMonth": 565,
     "timeYear": 564,
     "dailyMinutesDown": {
       "2024-07-29": 117,
@@ -158,7 +158,7 @@
     "time": 859,
     "timeDay": 771,
     "timeWeek": 767,
-    "timeMonth": 803,
+    "timeMonth": 802,
     "timeYear": 887,
     "dailyMinutesDown": {
       "2024-07-21": 99,
@@ -182,7 +182,7 @@
     "time": 824,
     "timeDay": 731,
     "timeWeek": 806,
-    "timeMonth": 824,
+    "timeMonth": 820,
     "timeYear": 820,
     "dailyMinutesDown": {
       "2024-06-10": 17,
