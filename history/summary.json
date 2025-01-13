@@ -34,7 +34,7 @@
     "slug": "beyond-pl",
     "status": "up",
     "uptime": "99.69%",
-    "uptimeDay": "59.29%",
+    "uptimeDay": "60.06%",
     "uptimeWeek": "61.88%",
     "uptimeMonth": "90.21%",
     "uptimeYear": "99.18%",
@@ -97,7 +97,7 @@
     "timeMonth": 0,
     "timeYear": 558,
     "dailyMinutesDown": {
-      "2025-01-13": 46,
+      "2025-01-13": 57,
       "2025-01-12": 1440,
       "2025-01-11": 1440,
       "2025-01-10": 1440,
