@@ -34,24 +34,24 @@
     "slug": "beyond-pl",
     "status": "up",
     "uptime": "99.69%",
-    "uptimeDay": "67.44%",
-    "uptimeWeek": "60.38%",
-    "uptimeMonth": "90.22%",
-    "uptimeYear": "99.19%",
+    "uptimeDay": "68.21%",
+    "uptimeWeek": "60.99%",
+    "uptimeMonth": "90.18%",
+    "uptimeYear": "99.18%",
     "time": 1820,
     "timeDay": 1480,
-    "timeWeek": 1516,
+    "timeWeek": 1510,
     "timeMonth": 1536,
     "timeYear": 1799,
     "dailyMinutesDown": {
-      "2025-01-14": 470,
+      "2025-01-14": 459,
       "2025-01-13": 541,
       "2025-01-12": 588,
       "2025-01-11": 558,
       "2025-01-10": 759,
       "2025-01-09": 544,
       "2025-01-08": 524,
-      "2025-01-07": 302
+      "2025-01-07": 330
     }
   },
   {
@@ -85,18 +85,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/swift-buf1.citycloud.com.ico",
     "slug": "obj-buf-1",
     "status": "down",
-    "uptime": "92.08%",
+    "uptime": "92.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "79.27%",
+    "uptimeYear": "79.25%",
     "time": 563,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 558,
     "dailyMinutesDown": {
-      "2025-01-14": 1429,
+      "2025-01-15": 53,
+      "2025-01-14": 1440,
       "2025-01-13": 1440,
       "2025-01-12": 1440,
       "2025-01-11": 1440,
@@ -199,8 +200,7 @@
       "2024-07-21": 99,
       "2024-07-20": 55,
       "2024-03-22": 16,
-      "2024-01-17": 84,
-      "2024-01-16": 2
+      "2024-01-17": 84
     }
   },
   {
