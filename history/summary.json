@@ -13,7 +13,7 @@
     "time": 3522,
     "timeDay": 2761,
     "timeWeek": 3546,
-    "timeMonth": 3564,
+    "timeMonth": 3551,
     "timeYear": 3498,
     "dailyMinutesDown": {
       "2025-03-08": 16,
@@ -33,17 +33,17 @@
     "slug": "beyond-pl",
     "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "91.76%",
-    "uptimeWeek": "90.58%",
-    "uptimeMonth": "93.19%",
+    "uptimeDay": "92.52%",
+    "uptimeWeek": "90.82%",
+    "uptimeMonth": "93.18%",
     "uptimeYear": "99.43%",
     "time": 1709,
     "timeDay": 1738,
-    "timeWeek": 1662,
-    "timeMonth": 1668,
+    "timeWeek": 1667,
+    "timeMonth": 1661,
     "timeYear": 1684,
     "dailyMinutesDown": {
-      "2025-03-30": 119,
+      "2025-03-30": 108,
       "2025-03-29": 209,
       "2025-03-28": 71,
       "2025-03-26": 187,
@@ -63,7 +63,7 @@
       "2025-03-12": 28,
       "2025-03-11": 195,
       "2025-03-10": 20,
-      "2025-03-09": 96
+      "2025-03-09": 115
     }
   },
   {
@@ -96,18 +96,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/swift-buf1.citycloud.com.ico",
     "slug": "obj-buf-1",
     "status": "down",
-    "uptime": "85.39%",
+    "uptime": "85.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
-    "uptimeYear": "58.72%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "58.71%",
     "time": 560,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 563,
     "dailyMinutesDown": {
-      "2025-03-30": 1435,
+      "2025-03-31": 61,
+      "2025-03-30": 1440,
       "2025-03-29": 1440,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
@@ -277,7 +278,7 @@
     "time": 869,
     "timeDay": 635,
     "timeWeek": 841,
-    "timeMonth": 856,
+    "timeMonth": 847,
     "timeYear": 871,
     "dailyMinutesDown": {
       "2024-11-22": 20,
@@ -299,7 +300,7 @@
     "time": 825,
     "timeDay": 679,
     "timeWeek": 775,
-    "timeMonth": 853,
+    "timeMonth": 848,
     "timeYear": 833,
     "dailyMinutesDown": {
       "2024-06-10": 17
