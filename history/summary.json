@@ -13,7 +13,7 @@
     "time": 3479,
     "timeDay": 3047,
     "timeWeek": 3411,
-    "timeMonth": 3384,
+    "timeMonth": 3340,
     "timeYear": 3476,
     "dailyMinutesDown": {
       "2025-04-22": 20,
@@ -31,9 +31,9 @@
     "slug": "beyond-pl",
     "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "94.97%",
-    "uptimeWeek": "94.94%",
-    "uptimeMonth": "91.96%",
+    "uptimeDay": "95.12%",
+    "uptimeWeek": "94.96%",
+    "uptimeMonth": "91.92%",
     "uptimeYear": "99.33%",
     "time": 1718,
     "timeDay": 1988,
@@ -41,7 +41,7 @@
     "timeMonth": 2169,
     "timeYear": 1718,
     "dailyMinutesDown": {
-      "2025-05-10": 72,
+      "2025-05-10": 70,
       "2025-05-09": 140,
       "2025-05-07": 32,
       "2025-05-06": 75,
@@ -62,7 +62,7 @@
       "2025-04-21": 462,
       "2025-04-20": 585,
       "2025-04-19": 249,
-      "2025-04-18": 68
+      "2025-04-18": 87
     }
   },
   {
@@ -92,18 +92,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/swift-buf1.citycloud.com.ico",
     "slug": "obj-buf-1",
     "status": "down",
-    "uptime": "82.13%",
+    "uptime": "82.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "47.49%",
+    "uptimeYear": "47.47%",
     "time": 559,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 578,
     "dailyMinutesDown": {
-      "2025-05-10": 1399,
+      "2025-05-11": 66,
+      "2025-05-10": 1440,
       "2025-05-09": 1440,
       "2025-05-08": 1440,
       "2025-05-07": 1440,
@@ -312,9 +313,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 862,
-    "timeDay": 720,
+    "timeDay": 652,
     "timeWeek": 784,
-    "timeMonth": 802,
+    "timeMonth": 796,
     "timeYear": 877,
     "dailyMinutesDown": {
       "2024-11-22": 20,
@@ -334,9 +335,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 831,
-    "timeDay": 817,
+    "timeDay": 803,
     "timeWeek": 826,
-    "timeMonth": 880,
+    "timeMonth": 868,
     "timeYear": 847,
     "dailyMinutesDown": {
       "2024-06-10": 17
