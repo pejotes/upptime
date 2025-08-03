@@ -22,8 +22,7 @@
       "2025-04-22": 20,
       "2025-03-08": 16,
       "2024-12-10": 20,
-      "2024-11-03": 32,
-      "2024-08-03": 53
+      "2024-11-03": 32
     }
   },
   {
@@ -111,18 +110,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/swift-buf1.citycloud.com.ico",
     "slug": "obj-buf-1",
     "status": "down",
-    "uptime": "76.17%",
+    "uptime": "76.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "24.55%",
+    "uptimeYear": "24.53%",
     "time": 562,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 576,
     "dailyMinutesDown": {
-      "2025-08-02": 1422,
+      "2025-08-03": 76,
+      "2025-08-02": 1440,
       "2025-08-01": 1440,
       "2025-07-31": 1440,
       "2025-07-30": 1440,
