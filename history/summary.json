@@ -119,14 +119,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "9.60%",
+    "uptimeYear": "9.59%",
     "time": 574,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 579,
     "dailyMinutesDown": {
-      "2025-09-26": 782,
+      "2025-09-26": 814,
       "2025-09-25": 1440,
       "2025-09-24": 1440,
       "2025-09-23": 1440,
@@ -485,19 +485,19 @@
     "url": "https://swift-fra1.citycloud.com:8080/",
     "icon": "https://icons.duckduckgo.com/ip3/swift-fra1.citycloud.com.ico",
     "slug": "obj-fra-1",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "97.79%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
     "time": 847,
-    "timeDay": 863,
-    "timeWeek": 813,
-    "timeMonth": 854,
+    "timeDay": 818,
+    "timeWeek": 804,
+    "timeMonth": 850,
     "timeYear": 849,
     "dailyMinutesDown": {
-      "2025-09-26": 0
+      "2025-09-26": 32
     }
   }
 ]
