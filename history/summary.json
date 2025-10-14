@@ -33,9 +33,9 @@
     "slug": "beyond-pl",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "98.53%",
-    "uptimeMonth": "99.13%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.61%",
+    "uptimeMonth": "99.15%",
     "uptimeYear": "99.44%",
     "time": 1691,
     "timeDay": 1231,
@@ -43,7 +43,6 @@
     "timeMonth": 1859,
     "timeYear": 1687,
     "dailyMinutesDown": {
-      "2025-10-13": 8,
       "2025-10-12": 113,
       "2025-10-10": 27,
       "2025-10-06": 17,
@@ -92,7 +91,7 @@
       "2025-04-26": 226,
       "2025-04-25": 64,
       "2025-04-24": 113,
-      "2025-04-23": 19
+      "2025-04-23": 45
     }
   },
   {
@@ -121,18 +120,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/swift-buf1.citycloud.com.ico",
     "slug": "obj-buf-1",
     "status": "down",
-    "uptime": "71.71%",
+    "uptime": "71.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "4.82%",
+    "uptimeYear": "4.81%",
     "time": 576,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 577,
     "dailyMinutesDown": {
-      "2025-10-13": 1406,
+      "2025-10-14": 58,
+      "2025-10-13": 1440,
       "2025-10-12": 1440,
       "2025-10-11": 1440,
       "2025-10-10": 1440,
