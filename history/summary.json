@@ -32,18 +32,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.beyond.pl.ico",
     "slug": "beyond-pl",
     "status": "up",
-    "uptime": "99.84%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "96.39%",
-    "uptimeMonth": "97.56%",
+    "uptime": "99.83%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.49%",
+    "uptimeMonth": "97.58%",
     "uptimeYear": "99.43%",
     "time": 1694,
-    "timeDay": 2008,
+    "timeDay": 1960,
     "timeWeek": 1980,
     "timeMonth": 1929,
     "timeYear": 1690,
     "dailyMinutesDown": {
-      "2025-11-21": 11,
       "2025-11-20": 66,
       "2025-11-19": 55,
       "2025-11-17": 58,
@@ -105,7 +104,8 @@
       "2025-05-05": 95,
       "2025-05-04": 98,
       "2025-05-03": 59,
-      "2025-05-02": 101
+      "2025-05-02": 101,
+      "2025-05-01": 30
     }
   },
   {
@@ -145,7 +145,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-21": 718,
+      "2025-11-21": 776,
       "2025-11-20": 1440,
       "2025-11-19": 1440,
       "2025-11-18": 1440,
@@ -539,18 +539,19 @@
     "url": "https://swift-fra1.citycloud.com:8080/",
     "icon": "https://icons.duckduckgo.com/ip3/swift-fra1.citycloud.com.ico",
     "slug": "obj-fra-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.98%",
-    "time": 869,
+    "time": 870,
     "timeDay": 1126,
     "timeWeek": 963,
     "timeMonth": 897,
     "timeYear": 881,
     "dailyMinutesDown": {
+      "2025-11-21": 0,
       "2025-10-23": 54,
       "2025-09-26": 32
     }
