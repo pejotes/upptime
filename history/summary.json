@@ -30,18 +30,19 @@
     "url": "http://www.beyond.pl",
     "icon": "https://icons.duckduckgo.com/ip3/www.beyond.pl.ico",
     "slug": "beyond-pl",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "98.04%",
-    "uptimeWeek": "99.56%",
-    "uptimeMonth": "96.40%",
-    "uptimeYear": "99.37%",
+    "uptimeDay": "98.00%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "96.44%",
+    "uptimeYear": "99.38%",
     "time": 1770,
     "timeDay": 2252,
     "timeWeek": 2115,
-    "timeMonth": 1996,
+    "timeMonth": 1995,
     "timeYear": 1779,
     "dailyMinutesDown": {
+      "2026-01-23": 1,
       "2026-01-22": 28,
       "2026-01-20": 16,
       "2026-01-13": 133,
@@ -91,8 +92,7 @@
       "2025-11-25": 67,
       "2025-11-24": 71,
       "2025-11-22": 39,
-      "2025-11-20": 66,
-      "2025-11-19": 23
+      "2025-11-20": 66
     }
   },
   {
@@ -121,7 +121,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/swift-buf1.citycloud.com.ico",
     "slug": "obj-buf-1",
     "status": "down",
-    "uptime": "66.26%",
+    "uptime": "66.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -132,7 +132,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-23": 69,
+      "2026-01-23": 688,
       "2026-01-22": 1440,
       "2026-01-21": 1440,
       "2026-01-20": 1440,
