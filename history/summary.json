@@ -30,19 +30,19 @@
     "url": "http://www.beyond.pl",
     "icon": "https://icons.duckduckgo.com/ip3/www.beyond.pl.ico",
     "slug": "beyond-pl",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "47.60%",
-    "uptimeWeek": "71.53%",
+    "uptimeDay": "49.83%",
+    "uptimeWeek": "71.52%",
     "uptimeMonth": "86.56%",
-    "uptimeYear": "98.73%",
+    "uptimeYear": "98.74%",
     "time": 1909,
-    "timeDay": 1410,
-    "timeWeek": 1550,
-    "timeMonth": 1559,
-    "timeYear": 1936,
+    "timeDay": 1358,
+    "timeWeek": 1543,
+    "timeMonth": 1556,
+    "timeYear": 1935,
     "dailyMinutesDown": {
-      "2026-04-13": 456,
+      "2026-04-13": 457,
       "2026-04-12": 614,
       "2026-04-11": 309,
       "2026-04-10": 522,
@@ -75,7 +75,7 @@
       "2026-03-10": 128,
       "2026-03-09": 118,
       "2026-03-08": 61,
-      "2026-03-07": 181
+      "2026-03-07": 139
     }
   },
   {
@@ -115,7 +115,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-13": 769,
+      "2026-04-13": 865,
       "2026-04-12": 1440,
       "2026-04-11": 1440,
       "2026-04-10": 1440,
