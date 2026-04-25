@@ -36,18 +36,19 @@
     "url": "http://www.beyond.pl",
     "icon": "https://icons.duckduckgo.com/ip3/www.beyond.pl.ico",
     "slug": "beyond-pl",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "57.83%",
-    "uptimeWeek": "70.14%",
-    "uptimeMonth": "79.39%",
-    "uptimeYear": "98.28%",
+    "uptimeDay": "57.78%",
+    "uptimeWeek": "70.34%",
+    "uptimeMonth": "79.48%",
+    "uptimeYear": "98.29%",
     "time": 1890,
-    "timeDay": 1632,
-    "timeWeek": 1593,
-    "timeMonth": 1550,
-    "timeYear": 1864,
+    "timeDay": 1458,
+    "timeWeek": 1580,
+    "timeMonth": 1546,
+    "timeYear": 1863,
     "dailyMinutesDown": {
+      "2026-04-25": 1,
       "2026-04-24": 608,
       "2026-04-23": 435,
       "2026-04-22": 225,
@@ -75,7 +76,7 @@
       "2026-03-31": 140,
       "2026-03-30": 55,
       "2026-03-29": 275,
-      "2026-03-28": 190
+      "2026-03-28": 149
     }
   },
   {
@@ -90,7 +91,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 840,
-    "timeDay": 726,
+    "timeDay": 705,
     "timeWeek": 845,
     "timeMonth": 823,
     "timeYear": 837,
@@ -104,7 +105,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/swift-buf1.citycloud.com.ico",
     "slug": "obj-buf-1",
     "status": "down",
-    "uptime": "61.98%",
+    "uptime": "61.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -115,7 +116,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-24": 1422,
+      "2026-04-25": 66,
+      "2026-04-24": 1440,
       "2026-04-23": 1440,
       "2026-04-22": 1440,
       "2026-04-21": 1440,
@@ -478,8 +480,7 @@
       "2025-04-29": 1440,
       "2025-04-28": 1440,
       "2025-04-27": 1440,
-      "2025-04-26": 1440,
-      "2025-04-25": 1440
+      "2025-04-26": 1440
     }
   },
   {
@@ -494,7 +495,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 853,
-    "timeDay": 818,
+    "timeDay": 777,
     "timeWeek": 886,
     "timeMonth": 813,
     "timeYear": 859,
@@ -515,7 +516,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 892,
-    "timeDay": 656,
+    "timeDay": 596,
     "timeWeek": 848,
     "timeMonth": 857,
     "timeYear": 902,
