@@ -38,15 +38,15 @@
     "slug": "beyond-pl",
     "status": "up",
     "uptime": "99.54%",
-    "uptimeDay": "40.08%",
-    "uptimeWeek": "65.94%",
+    "uptimeDay": "43.84%",
+    "uptimeWeek": "66.79%",
     "uptimeMonth": "78.27%",
     "uptimeYear": "98.19%",
     "time": 1889,
-    "timeDay": 1415,
-    "timeWeek": 1578,
+    "timeDay": 1477,
+    "timeWeek": 1572,
     "timeMonth": 1548,
-    "timeYear": 1856,
+    "timeYear": 1852,
     "dailyMinutesDown": {
       "2026-04-25": 865,
       "2026-04-24": 608,
@@ -115,7 +115,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-25": 1421,
+      "2026-04-26": 120,
+      "2026-04-25": 1440,
       "2026-04-24": 1440,
       "2026-04-23": 1440,
       "2026-04-22": 1440,
@@ -478,8 +479,7 @@
       "2025-04-30": 1440,
       "2025-04-29": 1440,
       "2025-04-28": 1440,
-      "2025-04-27": 1440,
-      "2025-04-26": 1440
+      "2025-04-27": 1440
     }
   },
   {
@@ -494,7 +494,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 853,
-    "timeDay": 813,
+    "timeDay": 848,
     "timeWeek": 906,
     "timeMonth": 807,
     "timeYear": 859,
@@ -515,7 +515,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 892,
-    "timeDay": 654,
+    "timeDay": 711,
     "timeWeek": 806,
     "timeMonth": 843,
     "timeYear": 901,
