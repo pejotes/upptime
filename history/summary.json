@@ -36,19 +36,19 @@
     "url": "http://www.beyond.pl",
     "icon": "https://icons.duckduckgo.com/ip3/www.beyond.pl.ico",
     "slug": "beyond-pl",
-    "status": "up",
-    "uptime": "99.52%",
-    "uptimeDay": "76.85%",
-    "uptimeWeek": "69.16%",
-    "uptimeMonth": "77.72%",
-    "uptimeYear": "98.14%",
-    "time": 1874,
-    "timeDay": 1661,
-    "timeWeek": 1550,
-    "timeMonth": 1546,
-    "timeYear": 1807,
+    "status": "down",
+    "uptime": "99.51%",
+    "uptimeDay": "62.00%",
+    "uptimeWeek": "67.63%",
+    "uptimeMonth": "77.21%",
+    "uptimeYear": "98.10%",
+    "time": 1873,
+    "timeDay": 1468,
+    "timeWeek": 1539,
+    "timeMonth": 1541,
+    "timeYear": 1806,
     "dailyMinutesDown": {
-      "2026-04-27": 273,
+      "2026-04-27": 528,
       "2026-04-26": 419,
       "2026-04-25": 865,
       "2026-04-24": 608,
@@ -71,8 +71,7 @@
       "2026-04-07": 345,
       "2026-04-06": 67,
       "2026-04-05": 197,
-      "2026-04-04": 94,
-      "2026-04-03": 33
+      "2026-04-04": 94
     }
   },
   {
@@ -112,7 +111,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-27": 1208,
+      "2026-04-27": 1390,
       "2026-04-26": 1440,
       "2026-04-25": 1440,
       "2026-04-24": 1440,
@@ -506,16 +505,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/swift-fra1.citycloud.com.ico",
     "slug": "obj-fra-1",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeYear": "99.97%",
     "time": 890,
     "timeDay": 718,
     "timeWeek": 746,
     "timeMonth": 841,
     "timeYear": 901,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-21": 50,
+      "2025-10-23": 54,
+      "2025-09-26": 32
+    }
   }
 ]
