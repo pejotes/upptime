@@ -38,18 +38,17 @@
     "slug": "beyond-pl",
     "status": "up",
     "uptime": "99.36%",
-    "uptimeDay": "46.30%",
-    "uptimeWeek": "61.49%",
-    "uptimeMonth": "69.94%",
-    "uptimeYear": "97.49%",
+    "uptimeDay": "51.39%",
+    "uptimeWeek": "62.30%",
+    "uptimeMonth": "69.52%",
+    "uptimeYear": "97.46%",
     "time": 1820,
-    "timeDay": 1554,
+    "timeDay": 1656,
     "timeWeek": 1426,
     "timeMonth": 1477,
     "timeYear": 1784,
     "dailyMinutesDown": {
-      "2026-05-11": 4,
-      "2026-05-10": 771,
+      "2026-05-10": 765,
       "2026-05-09": 496,
       "2026-05-08": 692,
       "2026-05-07": 749,
@@ -73,7 +72,7 @@
       "2026-04-19": 589,
       "2026-04-18": 436,
       "2026-04-17": 385,
-      "2026-04-16": 220
+      "2026-04-16": 413
     }
   },
   {
@@ -102,7 +101,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/swift-buf1.citycloud.com.ico",
     "slug": "obj-buf-1",
     "status": "down",
-    "uptime": "61.29%",
+    "uptime": "61.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -113,7 +112,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-11": 9,
+      "2026-05-11": 148,
       "2026-05-10": 1440,
       "2026-05-09": 1440,
       "2026-05-08": 1440,
