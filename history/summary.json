@@ -13,8 +13,8 @@
     "time": 3540,
     "timeDay": 3383,
     "timeWeek": 3531,
-    "timeMonth": 3405,
-    "timeYear": 3563,
+    "timeMonth": 3418,
+    "timeYear": 3564,
     "dailyMinutesDown": {
       "2025-06-18": 211,
       "2025-06-24": 92,
@@ -35,16 +35,16 @@
     "url": "http://www.beyond.pl",
     "icon": "https://icons.duckduckgo.com/ip3/www.beyond.pl.ico",
     "slug": "beyond-pl",
-    "status": "down",
-    "uptime": "99.20%",
-    "uptimeDay": "64.82%",
-    "uptimeWeek": "69.05%",
-    "uptimeMonth": "65.96%",
-    "uptimeYear": "96.80%",
-    "time": 1777,
-    "timeDay": 1385,
-    "timeWeek": 1765,
-    "timeMonth": 1528,
+    "status": "up",
+    "uptime": "99.19%",
+    "uptimeDay": "54.13%",
+    "uptimeWeek": "67.82%",
+    "uptimeMonth": "65.73%",
+    "uptimeYear": "96.78%",
+    "time": 1778,
+    "timeDay": 1541,
+    "timeWeek": 1757,
+    "timeMonth": 1535,
     "timeYear": 1766,
     "dailyMinutesDown": {
       "2026-04-23": 55,
@@ -79,7 +79,7 @@
       "2026-05-22": 1260,
       "2026-05-23": 212,
       "2026-05-25": 82,
-      "2026-05-26": 507
+      "2026-05-26": 661
     }
   },
   {
@@ -96,7 +96,7 @@
     "time": 836,
     "timeDay": 717,
     "timeWeek": 803,
-    "timeMonth": 772,
+    "timeMonth": 775,
     "timeYear": 833,
     "dailyMinutesDown": {}
   },
@@ -106,7 +106,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/swift-buf1.citycloud.com.ico",
     "slug": "obj-buf-1",
     "status": "down",
-    "uptime": "60.62%",
+    "uptime": "60.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -117,7 +117,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-26": 1272,
+      "2026-05-26": 1431,
       "2026-05-25": 1440,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
@@ -498,7 +498,7 @@
     "time": 849,
     "timeDay": 760,
     "timeWeek": 779,
-    "timeMonth": 771,
+    "timeMonth": 772,
     "timeYear": 859,
     "dailyMinutesDown": {
       "2025-07-17": 27,
@@ -519,7 +519,7 @@
     "time": 888,
     "timeDay": 761,
     "timeWeek": 735,
-    "timeMonth": 803,
+    "timeMonth": 806,
     "timeYear": 898,
     "dailyMinutesDown": {
       "2025-09-26": 32,
