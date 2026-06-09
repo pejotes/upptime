@@ -14,7 +14,7 @@
     "timeDay": 3142,
     "timeWeek": 3454,
     "timeMonth": 3458,
-    "timeYear": 3563,
+    "timeYear": 3565,
     "dailyMinutesDown": {
       "2025-06-18": 211,
       "2025-06-24": 92,
@@ -35,19 +35,19 @@
     "url": "http://www.beyond.pl",
     "icon": "https://icons.duckduckgo.com/ip3/www.beyond.pl.ico",
     "slug": "beyond-pl",
-    "status": "up",
+    "status": "down",
     "uptime": "98.94%",
-    "uptimeDay": "8.68%",
-    "uptimeWeek": "24.06%",
-    "uptimeMonth": "57.03%",
-    "uptimeYear": "95.72%",
+    "uptimeDay": "12.99%",
+    "uptimeWeek": "24.01%",
+    "uptimeMonth": "57.05%",
+    "uptimeYear": "95.75%",
     "time": 1768,
-    "timeDay": 1494,
-    "timeWeek": 1595,
-    "timeMonth": 1594,
-    "timeYear": 1751,
+    "timeDay": 1394,
+    "timeWeek": 1579,
+    "timeMonth": 1596,
+    "timeYear": 1750,
     "dailyMinutesDown": {
-      "2026-05-02": 606,
+      "2026-05-02": 456,
       "2026-05-03": 463,
       "2026-05-04": 359,
       "2026-05-05": 479,
@@ -83,7 +83,8 @@
       "2026-06-05": 958,
       "2026-06-06": 1144,
       "2026-06-07": 1196,
-      "2026-06-08": 1252
+      "2026-06-08": 1253,
+      "2026-06-09": 4
     }
   },
   {
@@ -100,7 +101,7 @@
     "time": 834,
     "timeDay": 694,
     "timeWeek": 767,
-    "timeMonth": 773,
+    "timeMonth": 776,
     "timeYear": 829,
     "dailyMinutesDown": {}
   },
@@ -121,7 +122,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-08": 1377,
+      "2026-06-09": 4,
+      "2026-06-08": 1440,
       "2026-06-07": 1440,
       "2026-06-06": 1440,
       "2026-06-05": 1440,
@@ -484,8 +486,7 @@
       "2025-06-13": 1440,
       "2025-06-12": 1440,
       "2025-06-11": 1440,
-      "2025-06-10": 1440,
-      "2025-06-09": 1440
+      "2025-06-10": 1440
     }
   },
   {
@@ -502,7 +503,7 @@
     "time": 845,
     "timeDay": 716,
     "timeWeek": 765,
-    "timeMonth": 764,
+    "timeMonth": 760,
     "timeYear": 856,
     "dailyMinutesDown": {
       "2025-07-17": 27,
@@ -523,8 +524,8 @@
     "time": 887,
     "timeDay": 783,
     "timeWeek": 760,
-    "timeMonth": 804,
-    "timeYear": 896,
+    "timeMonth": 810,
+    "timeYear": 897,
     "dailyMinutesDown": {
       "2025-09-26": 32,
       "2025-10-23": 54,
