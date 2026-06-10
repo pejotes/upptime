@@ -14,7 +14,7 @@
     "timeDay": 3640,
     "timeWeek": 3529,
     "timeMonth": 3452,
-    "timeYear": 3566,
+    "timeYear": 3565,
     "dailyMinutesDown": {
       "2025-06-18": 211,
       "2025-06-24": 92,
@@ -35,19 +35,19 @@
     "url": "http://www.beyond.pl",
     "icon": "https://icons.duckduckgo.com/ip3/www.beyond.pl.ico",
     "slug": "beyond-pl",
-    "status": "up",
+    "status": "down",
     "uptime": "98.92%",
-    "uptimeDay": "59.96%",
-    "uptimeWeek": "30.80%",
-    "uptimeMonth": "56.77%",
-    "uptimeYear": "95.64%",
-    "time": 1767,
-    "timeDay": 1794,
-    "timeWeek": 1541,
-    "timeMonth": 1603,
-    "timeYear": 1749,
+    "uptimeDay": "65.93%",
+    "uptimeWeek": "31.07%",
+    "uptimeMonth": "56.89%",
+    "uptimeYear": "95.65%",
+    "time": 1768,
+    "timeDay": 1708,
+    "timeWeek": 1501,
+    "timeMonth": 1597,
+    "timeYear": 1748,
     "dailyMinutesDown": {
-      "2026-05-03": 164,
+      "2026-05-03": 113,
       "2026-05-04": 359,
       "2026-05-05": 479,
       "2026-05-06": 334,
@@ -84,7 +84,7 @@
       "2026-06-07": 1196,
       "2026-06-08": 1253,
       "2026-06-09": 846,
-      "2026-06-10": 486
+      "2026-06-10": 491
     }
   },
   {
@@ -102,7 +102,7 @@
     "timeDay": 867,
     "timeWeek": 785,
     "timeMonth": 782,
-    "timeYear": 830,
+    "timeYear": 828,
     "dailyMinutesDown": {}
   },
   {
@@ -111,7 +111,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/swift-buf1.citycloud.com.ico",
     "slug": "obj-buf-1",
     "status": "down",
-    "uptime": "60.00%",
+    "uptime": "59.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -122,7 +122,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-10": 1326,
+      "2026-06-10": 1428,
       "2026-06-09": 1440,
       "2026-06-08": 1440,
       "2026-06-07": 1440,
@@ -504,7 +504,7 @@
     "timeDay": 926,
     "timeWeek": 764,
     "timeMonth": 767,
-    "timeYear": 856,
+    "timeYear": 855,
     "dailyMinutesDown": {
       "2025-07-17": 27,
       "2025-10-20": 144
@@ -525,7 +525,7 @@
     "timeDay": 989,
     "timeWeek": 822,
     "timeMonth": 813,
-    "timeYear": 897,
+    "timeYear": 896,
     "dailyMinutesDown": {
       "2025-09-26": 32,
       "2025-10-23": 54,
