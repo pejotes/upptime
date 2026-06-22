@@ -35,11 +35,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.beyond.pl.ico",
     "slug": "beyond-pl",
     "status": "down",
-    "uptime": "98.85%",
+    "uptime": "98.84%",
     "uptimeDay": "79.34%",
-    "uptimeWeek": "80.84%",
-    "uptimeMonth": "60.69%",
-    "uptimeYear": "95.32%",
+    "uptimeWeek": "79.27%",
+    "uptimeMonth": "60.48%",
+    "uptimeYear": "95.29%",
     "time": 1763,
     "timeDay": 1557,
     "timeWeek": 1468,
@@ -87,7 +87,7 @@
       "2026-06-19": 649,
       "2026-06-20": 639,
       "2026-06-21": 303,
-      "2026-06-22": 5
+      "2026-06-22": 163
     }
   },
   {
@@ -114,7 +114,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/swift-buf1.citycloud.com.ico",
     "slug": "obj-buf-1",
     "status": "down",
-    "uptime": "59.55%",
+    "uptime": "59.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -125,7 +125,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-22": 19,
+      "2026-06-22": 178,
       "2026-06-21": 1440,
       "2026-06-20": 1440,
       "2026-06-19": 1440,
