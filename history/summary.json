@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
-    "time": 3537,
-    "timeDay": 3026,
-    "timeWeek": 3399,
-    "timeMonth": 3404,
+    "time": 3536,
+    "timeDay": 2816,
+    "timeWeek": 3344,
+    "timeMonth": 3360,
     "timeYear": 3553,
     "dailyMinutesDown": {
       "2025-10-02": 21,
@@ -33,19 +33,19 @@
     "url": "http://www.beyond.pl",
     "icon": "https://icons.duckduckgo.com/ip3/www.beyond.pl.ico",
     "slug": "beyond-pl",
-    "status": "up",
-    "uptime": "98.87%",
-    "uptimeDay": "85.56%",
-    "uptimeWeek": "78.41%",
-    "uptimeMonth": "62.05%",
-    "uptimeYear": "95.40%",
-    "time": 1755,
-    "timeDay": 1429,
-    "timeWeek": 1426,
-    "timeMonth": 1521,
-    "timeYear": 1737,
+    "status": "down",
+    "uptime": "98.88%",
+    "uptimeDay": "89.75%",
+    "uptimeWeek": "78.38%",
+    "uptimeMonth": "62.04%",
+    "uptimeYear": "95.43%",
+    "time": 1754,
+    "timeDay": 1230,
+    "timeWeek": 1421,
+    "timeMonth": 1513,
+    "timeYear": 1736,
     "dailyMinutesDown": {
-      "2026-05-10": 300,
+      "2026-05-10": 113,
       "2026-05-11": 302,
       "2026-05-12": 528,
       "2026-05-13": 444,
@@ -88,7 +88,8 @@
       "2026-06-25": 335,
       "2026-06-26": 133,
       "2026-06-27": 350,
-      "2026-06-28": 143
+      "2026-06-28": 143,
+      "2026-06-29": 5
     }
   },
   {
@@ -103,10 +104,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 833,
-    "timeDay": 681,
-    "timeWeek": 800,
-    "timeMonth": 791,
-    "timeYear": 825,
+    "timeDay": 930,
+    "timeWeek": 830,
+    "timeMonth": 786,
+    "timeYear": 826,
     "dailyMinutesDown": {}
   },
   {
@@ -126,7 +127,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-28": 1342,
+      "2026-06-29": 16,
+      "2026-06-28": 1440,
       "2026-06-27": 1440,
       "2026-06-26": 1440,
       "2026-06-25": 1440,
@@ -489,8 +491,7 @@
       "2025-07-03": 1440,
       "2025-07-02": 1440,
       "2025-07-01": 1440,
-      "2025-06-30": 1440,
-      "2025-06-29": 1440
+      "2025-06-30": 1440
     }
   },
   {
@@ -505,10 +506,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 846,
-    "timeDay": 712,
-    "timeWeek": 754,
-    "timeMonth": 783,
-    "timeYear": 853,
+    "timeDay": 737,
+    "timeWeek": 752,
+    "timeMonth": 781,
+    "timeYear": 852,
     "dailyMinutesDown": {
       "2025-07-17": 27,
       "2025-10-20": 144
@@ -526,10 +527,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 887,
-    "timeDay": 832,
-    "timeWeek": 760,
-    "timeMonth": 809,
-    "timeYear": 892,
+    "timeDay": 1078,
+    "timeWeek": 800,
+    "timeMonth": 818,
+    "timeYear": 893,
     "dailyMinutesDown": {
       "2025-09-26": 32,
       "2025-10-23": 54,
