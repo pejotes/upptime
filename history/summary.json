@@ -13,7 +13,7 @@
     "time": 3548,
     "timeDay": 3133,
     "timeWeek": 3438,
-    "timeMonth": 3716,
+    "timeMonth": 3738,
     "timeYear": 3573,
     "dailyMinutesDown": {
       "2025-10-02": 21,
@@ -33,17 +33,17 @@
     "url": "http://www.beyond.pl",
     "icon": "https://icons.duckduckgo.com/ip3/www.beyond.pl.ico",
     "slug": "beyond-pl",
-    "status": "down",
+    "status": "up",
     "uptime": "98.94%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "97.38%",
-    "uptimeMonth": "97.47%",
-    "uptimeYear": "95.57%",
+    "uptimeDay": "95.51%",
+    "uptimeWeek": "96.78%",
+    "uptimeMonth": "97.33%",
+    "uptimeYear": "95.56%",
     "time": 1777,
-    "timeDay": 833,
-    "timeWeek": 2070,
-    "timeMonth": 2504,
-    "timeYear": 1759,
+    "timeDay": 1526,
+    "timeWeek": 2085,
+    "timeMonth": 2492,
+    "timeYear": 1760,
     "dailyMinutesDown": {
       "2026-05-16": 481,
       "2026-05-17": 352,
@@ -95,7 +95,7 @@
       "2026-07-28": 137,
       "2026-07-29": 313,
       "2026-08-01": 260,
-      "2026-08-06": 5
+      "2026-08-06": 65
     }
   },
   {
@@ -112,7 +112,7 @@
     "time": 831,
     "timeDay": 2056,
     "timeWeek": 929,
-    "timeMonth": 858,
+    "timeMonth": 862,
     "timeYear": 829,
     "dailyMinutesDown": {}
   },
@@ -133,7 +133,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-06": 6,
+      "2026-08-06": 71,
       "2026-08-05": 1440,
       "2026-08-04": 1440,
       "2026-08-03": 1440,
@@ -512,9 +512,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 843,
-    "timeDay": 987,
+    "timeDay": 883,
     "timeWeek": 837,
-    "timeMonth": 808,
+    "timeMonth": 815,
     "timeYear": 849,
     "dailyMinutesDown": {
       "2025-10-20": 144
@@ -532,9 +532,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 881,
-    "timeDay": 833,
+    "timeDay": 722,
     "timeWeek": 793,
-    "timeMonth": 779,
+    "timeMonth": 783,
     "timeYear": 888,
     "dailyMinutesDown": {
       "2025-09-26": 32,
