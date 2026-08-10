@@ -12,8 +12,8 @@
     "uptimeYear": "99.87%",
     "time": 3549,
     "timeDay": 3376,
-    "timeWeek": 3269,
-    "timeMonth": 3673,
+    "timeWeek": 3308,
+    "timeMonth": 3662,
     "timeYear": 3573,
     "dailyMinutesDown": {
       "2025-10-02": 21,
@@ -35,14 +35,14 @@
     "slug": "beyond-pl",
     "status": "up",
     "uptime": "98.96%",
-    "uptimeDay": "89.48%",
+    "uptimeDay": "92.87%",
     "uptimeWeek": "96.51%",
     "uptimeMonth": "97.04%",
     "uptimeYear": "95.65%",
     "time": 1766,
-    "timeDay": 1588,
-    "timeWeek": 1930,
-    "timeMonth": 2452,
+    "timeDay": 1481,
+    "timeWeek": 1904,
+    "timeMonth": 2450,
     "timeYear": 1762,
     "dailyMinutesDown": {
       "2026-05-17": 64,
@@ -113,8 +113,8 @@
     "uptimeYear": "100.00%",
     "time": 830,
     "timeDay": 802,
-    "timeWeek": 884,
-    "timeMonth": 834,
+    "timeWeek": 912,
+    "timeMonth": 831,
     "timeYear": 829,
     "dailyMinutesDown": {}
   },
@@ -135,7 +135,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-09": 1418,
+      "2026-08-10": 67,
+      "2026-08-09": 1440,
       "2026-08-08": 1440,
       "2026-08-07": 1440,
       "2026-08-06": 1440,
@@ -498,8 +499,7 @@
       "2025-08-14": 1440,
       "2025-08-13": 1440,
       "2025-08-12": 1440,
-      "2025-08-11": 1440,
-      "2025-08-10": 1440
+      "2025-08-11": 1440
     }
   },
   {
@@ -515,8 +515,8 @@
     "uptimeYear": "99.97%",
     "time": 842,
     "timeDay": 896,
-    "timeWeek": 794,
-    "timeMonth": 814,
+    "timeWeek": 807,
+    "timeMonth": 805,
     "timeYear": 848,
     "dailyMinutesDown": {
       "2025-10-20": 144
@@ -535,8 +535,8 @@
     "uptimeYear": "99.97%",
     "time": 881,
     "timeDay": 920,
-    "timeWeek": 799,
-    "timeMonth": 795,
+    "timeWeek": 821,
+    "timeMonth": 796,
     "timeYear": 887,
     "dailyMinutesDown": {
       "2025-09-26": 32,
