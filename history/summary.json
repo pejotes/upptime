@@ -13,7 +13,7 @@
     "time": 3554,
     "timeDay": 3270,
     "timeWeek": 3624,
-    "timeMonth": 3759,
+    "timeMonth": 3771,
     "timeYear": 3581,
     "dailyMinutesDown": {
       "2025-10-02": 21,
@@ -33,17 +33,17 @@
     "url": "http://www.beyond.pl",
     "icon": "https://icons.duckduckgo.com/ip3/www.beyond.pl.ico",
     "slug": "beyond-pl",
-    "status": "down",
+    "status": "up",
     "uptime": "98.98%",
-    "uptimeDay": "97.05%",
-    "uptimeWeek": "96.17%",
-    "uptimeMonth": "96.94%",
+    "uptimeDay": "96.16%",
+    "uptimeWeek": "96.04%",
+    "uptimeMonth": "96.92%",
     "uptimeYear": "95.70%",
-    "time": 1768,
-    "timeDay": 2222,
-    "timeWeek": 2020,
-    "timeMonth": 2454,
-    "timeYear": 1762,
+    "time": 1769,
+    "timeDay": 2207,
+    "timeWeek": 2026,
+    "timeMonth": 2463,
+    "timeYear": 1763,
     "dailyMinutesDown": {
       "2026-05-19": 98,
       "2026-05-20": 522,
@@ -97,7 +97,8 @@
       "2026-08-08": 92,
       "2026-08-09": 140,
       "2026-08-11": 56,
-      "2026-08-13": 42
+      "2026-08-13": 55,
+      "2026-08-14": 0
     }
   },
   {
@@ -114,7 +115,7 @@
     "time": 831,
     "timeDay": 679,
     "timeWeek": 779,
-    "timeMonth": 847,
+    "timeMonth": 853,
     "timeYear": 830,
     "dailyMinutesDown": {}
   },
@@ -135,7 +136,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-13": 1428,
+      "2026-08-14": 5,
+      "2026-08-13": 1440,
       "2026-08-12": 1440,
       "2026-08-11": 1440,
       "2026-08-10": 1440,
@@ -498,8 +500,7 @@
       "2025-08-18": 1440,
       "2025-08-17": 1440,
       "2025-08-16": 1440,
-      "2025-08-15": 1440,
-      "2025-08-14": 1440
+      "2025-08-15": 1440
     }
   },
   {
@@ -514,9 +515,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 841,
-    "timeDay": 820,
+    "timeDay": 707,
     "timeWeek": 792,
-    "timeMonth": 815,
+    "timeMonth": 816,
     "timeYear": 850,
     "dailyMinutesDown": {
       "2025-10-20": 144
@@ -534,7 +535,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 880,
-    "timeDay": 723,
+    "timeDay": 676,
     "timeWeek": 827,
     "timeMonth": 814,
     "timeYear": 887,
