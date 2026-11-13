@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 3621,
-    "timeDay": 3352,
-    "timeWeek": 3120,
-    "timeMonth": 3576,
-    "timeYear": 3578,
+    "timeDay": 2674,
+    "timeWeek": 3056,
+    "timeMonth": 3517,
+    "timeYear": 3574,
     "dailyMinutesDown": {
       "2026-02-05": 25,
       "2026-04-14": 104,
@@ -39,9 +39,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.03%",
     "time": 1793,
-    "timeDay": 2414,
-    "timeWeek": 2235,
-    "timeMonth": 2164,
+    "timeDay": 1999,
+    "timeWeek": 2202,
+    "timeMonth": 2149,
     "timeYear": 1785,
     "dailyMinutesDown": {
       "2026-05-26": 159,
@@ -114,7 +114,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 827,
-    "timeDay": 781,
+    "timeDay": 845,
     "timeWeek": 848,
     "timeMonth": 849,
     "timeYear": 823,
@@ -126,7 +126,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/swift-buf1.citycloud.com.ico",
     "slug": "obj-buf-1",
     "status": "down",
-    "uptime": "54.30%",
+    "uptime": "54.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -137,7 +137,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-12": 307,
+      "2026-11-13": 264,
+      "2026-11-12": 1440,
       "2026-11-11": 1440,
       "2026-11-10": 1440,
       "2026-11-09": 1440,
@@ -500,8 +501,7 @@
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
-      "2025-11-14": 1440,
-      "2025-11-13": 1440
+      "2025-11-14": 1440
     }
   },
   {
@@ -515,11 +515,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 844,
-    "timeDay": 951,
-    "timeWeek": 826,
-    "timeMonth": 836,
-    "timeYear": 845,
+    "time": 843,
+    "timeDay": 634,
+    "timeWeek": 798,
+    "timeMonth": 826,
+    "timeYear": 844,
     "dailyMinutesDown": {}
   },
   {
@@ -534,10 +534,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 874,
-    "timeDay": 900,
-    "timeWeek": 777,
-    "timeMonth": 816,
-    "timeYear": 859,
+    "timeDay": 709,
+    "timeWeek": 767,
+    "timeMonth": 805,
+    "timeYear": 858,
     "dailyMinutesDown": {
       "2025-11-21": 50
     }
